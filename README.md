@@ -19,3 +19,6 @@ Short showcase:
 https://youtu.be/GbEUf81IEW4
 https://youtu.be/CHLfBLwmvKQ
 https://youtu.be/roFtipdG_g8
+
+
+Discord server: https://discord.gg/ab45R7Rg
